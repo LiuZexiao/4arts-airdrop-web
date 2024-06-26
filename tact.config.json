@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "name": "SampleJetton",
+            "path": "./sources/contract/contract.tact",
+            "output": "./sources/output",
+            "options": {}
+        },
+        {
+            "name": "RewardJetton",
+            "path": "./sources/contract/ent_reward.tact",
+            "output": "./sources/output",
+            "options": {}
+        }
+    ]
+}
