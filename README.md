@@ -16,8 +16,6 @@ yarn install
 ```shell
 yarn deploy
 ```
-# 测试进度
-
 
 # 常见问题
 
@@ -29,10 +27,10 @@ yarn config set https-proxy http://127.0.0.1:7890
 ```
 ## 错误代码
 # Error Codes
-2: Stack undeflow
-3: Stack overflow
-4: Integer overflow
-5: Integer out of expected range
+2: Stack undeflow  
+3: Stack overflow  
+4: Integer overflow  
+5: Integer out of expected range  
 6: Invalid opcode
 7: Type check error
 8: Cell overflow
