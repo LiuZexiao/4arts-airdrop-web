@@ -51,9 +51,7 @@ dotenv.config();
     let init = await SampleJetton.init(deployer_wallet_contract.address, content, max_supply);
     let jettonMaster = contractAddress(workchain, init);
     let deployAmount = toNano("0.15");   // 设置gas
-
-
-    //--------------------------------------
+    //-------------------------------------------
 
 
 
